@@ -1,0 +1,27 @@
+.form input{
+    width: 30%;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 4px;
+   margin-left: 360px;
+   margin-top: 30px;
+   gap: 10px;
+   border-width: 2px;
+} 
+
+.button{
+    margin-left: 350.5px;
+    margin-top: 10px;
+   font-size: 18px;
+   
+}
+button{
+    
+    width: 40.5%;
+    height: 50px;
+   text-align: center;
+   color: black;
+   background-color: gray;
+   
+
+}
